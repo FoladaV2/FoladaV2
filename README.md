@@ -33,12 +33,6 @@ I'm a 16-year-old tech entrepreneur and developer focused on **building world-cl
 
 ---
 
-## 📈 GitHub Stats
-![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabaFoladashvili&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaFoladashvili&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabafoladashvili) 
