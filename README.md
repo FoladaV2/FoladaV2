@@ -45,7 +45,3 @@ I'm a 16-year-old tech entrepreneur and developer focused on **building world-cl
 - I’m **197 cm tall** and obsessed with maximizing productivity.  
 - Daily routines: **Workout → Cold shower → Coffee → Code & Build**.  
 - Passionate about **AI, startups, web dev, and philosophy**.  
-
----
-
-> “If you want to build something world-class, focus on skills, speed, and solving real problems.” – Saba Foladashvili
