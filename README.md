@@ -1,7 +1,7 @@
 # Call me Folada
 ### Full-Stack Developer | AI Enthusiast | Startup Builder
 
-I'm a 16-year-old tech entrepreneur and developer focused on **building world-class web experiences, AI tools, and startups**. My goal is to create impactful technology and scale innovative projects globally.
+I'm a 16-year-old tech entrepreneur and developer **building world-class web experiences, AI tools, and startups**. My goal is to be on top of the world.
 
 ---
 
